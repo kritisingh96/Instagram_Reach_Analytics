@@ -23,7 +23,7 @@ This project analyzes 30,000 Instagram posts to explore:
 
 ## 📁 Dataset
 
-**Source:** [Instagram Analytics Dataset](https://www.kaggle.com/datasets/your-dataset-link)  
+**Source:** [Instagram Analytics Dataset](https://www.kaggle.com/datasets/kundanbedmutha/instagram-analytics-dataset/)  
 **Size:** 30,000 posts collected over 12 months  
 **Features:** 15 columns including engagement metrics, reach, impressions, and post characteristics
 
@@ -308,9 +308,9 @@ But even with these enhancements, perfect prediction may remain impossible—and
 MSBA Student, Washington University in St. Louis  
 Content Creator with 80K+ Instagram followers
 
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Instagram: [@YourHandle](https://instagram.com/yourhandle)
-- GitHub: [@YourGitHub](https://github.com/yourgithub)
+- LinkedIn: [Your LinkedIn](https://linkedin.com/in/kriti-singh-21aaa81a0/)
+- Instagram: [@YourHandle](https://instagram.com/kriti.singh08)
+- GitHub: [@YourGitHub](https://github.com/kritisingh96)
 
 ---
 
